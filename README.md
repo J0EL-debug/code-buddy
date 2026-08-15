@@ -1,3 +1,4 @@
+
 # Code Buddy — AI-Powered Code Review
 
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/)
@@ -13,19 +14,15 @@ Built as a portfolio project — it's a real, working demonstration of an async 
 
 ## 📸 Screenshots
 
-> Add screenshots to `/images` to have them render here — a login screen, the Review Code page with a completed review, the Dashboard, and a GitHub PR comment are the most useful ones for a portfolio README.
-
 ### Review Code (instant mode)
-![Review Code](./images/review-code.png)
-*Paste, upload, or drop a zip — get inline highlighted issues, a recommendation, and (optionally) an AI-rewritten fix*
+<img width="957" height="456" alt="Ai review 1" src="https://github.com/user-attachments/assets/e5953243-c2e9-48b5-abb7-0b24a0750484" />
 
 ### Dashboard
-![Dashboard Overview](./images/dashboard.png)
-*Combined metrics across both GitHub PR reviews and instant reviews, with a per-project breakdown*
+<img width="940" height="455" alt="Ai" src="https://github.com/user-attachments/assets/5a7833bd-7787-415e-9b00-c8b114dce08e" />
 
 ### GitHub Integration
-![PR Comment](./images/pr-comment.png)
-*Automated review posted directly on a pull request, including a merge-gate decision when enabled*
+
+<img width="1259" height="1052" alt="mr-summary" src="https://github.com/user-attachments/assets/a09909a3-1656-4b9f-8cc0-9c1adba3af93" />
 
 ## 🌟 Features
 
